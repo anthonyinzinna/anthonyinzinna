@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Anthony Inzinna 👋
 
-<!--
-**anthonyinzinna/anthonyinzinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist & Operations Consultant** based in Jackson, MS & Destin, FL.
+I build systems that solve expensive problems:
 
-Here are some ideas to get you started:
+- 📉 **Reducing Churn:** Behavioral prediction using XGBoost & SHAP.
+- 📦 **Optimizing Inventory:** Demand forecasting using Facebook Prophet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect with Me
+- 🌐 **My Portfolio Hub:** [Click Here](https://sites.google.com/view/anthony-inzinna-data/home)
+- 💼 **Hire me on Upwork:** [Upwork Profile](https://www.upwork.com/freelancers/~01cec08bced2f6c2d6))
+- 👔 **LinkedIn:** [anthonyinzinna](https://www.linkedin.com/in/anthonyinzinna)
+
+---
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
