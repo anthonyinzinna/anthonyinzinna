@@ -9,7 +9,7 @@ I build systems that solve expensive problems:
 ---
 
 ### 🔗 Connect with Me
-- 🌐 **My Portfolio Hub:** [Click Here](https://sites.google.com/view/anthony-inzinna-data/home)
+- 🌐 **My Portfolio Hub:** [Click Here](https://sites.google.com/view/anthony-inzinna-data/)
 - 💼 **Hire me on Upwork:** [Upwork Profile](https://www.upwork.com/freelancers/~01cec08bced2f6c2d6)
 - 👔 **LinkedIn:** [anthonyinzinna](https://www.linkedin.com/in/anthonyinzinna)
 
