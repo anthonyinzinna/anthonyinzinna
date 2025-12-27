@@ -20,7 +20,7 @@ This profile serves as the source code repository for my applied research in beh
 * **Logic:** Replaced standard black-box predictions with SHAP (SHapley Additive exPlanations) waterfall plots to quantify individual turnover risk factors.
 * **Key Function:** Optimized precision-recall thresholds to improve minority class detection (attrition) from 34% to 61%.
 
-### 3. [Supply Chain Demand Forecasting](https://github.com/anthonyinzinna/Supply-Chain-Demand-Forecasting)
+### 3. [Supply Chain Demand Forecasting](https://github.com/anthonyinzinna/Retail-Inventory-Forecasting-Prophet)
 * **Stack:** Python, Facebook Prophet, Pandas
 * **Implementation:** Time-series decomposition model separating growth trends from weekly/yearly seasonality.
 * **Logic:** Calculated dynamic "Safety Stock" levels using 95% confidence interval upper bounds rather than static averages.
