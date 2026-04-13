@@ -8,7 +8,7 @@ This profile serves as the source code repository for my applied research in beh
 
 ## 📂 Repository Index & Technical Stacks
 
-### 1. [GA4 Forensic Traffic Analysis](https://github.com/anthonyinzinna/ga4-forensic-traffic-analysis) (New)
+### 1. [GA4 Forensic Traffic Analysis](https://github.com/anthonyinzinna/ga4-forensic-traffic-analysis) 
 * **Stack:** SQL (BigQuery), Looker Studio, Regex
 * **Implementation:** Engineered a heuristic identity resolution pipeline to filter bot/developer traffic from raw GA4 event streams.
 * **Logic:** Utilized `UNNEST` and Window Functions to reconstruct session-scoped engagement metrics, distinguishing "0-second" headless browsers from high-value recruitment leads (LinkedIn/GitHub).
