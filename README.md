@@ -1,6 +1,6 @@
 # 👨‍💻 Anthony Inzinna | Technical Research & Code Archive
 
-**M.S. Data Science (Candidate) | Python & R Developer**
+**M.S. Data Science | Python & R Developer**
 
 This profile serves as the source code repository for my applied research in behavioral analytics and algorithmic forecasting. Unlike my business portfolio, this archive focuses on the **raw implementation logic**, reproducibility, and statistical methodologies used in my modeling work.
 
