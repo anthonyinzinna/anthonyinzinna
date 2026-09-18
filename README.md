@@ -9,9 +9,9 @@ This profile serves as the source code repository for my applied research in beh
 
 ### 1. [Retail Intelligence: Predictive Behavioral Segmentation](https://github.com/anthonyinzinna/retail-intelligence-rfm)
 * **Stack:** Python, Pandas, Scikit-Learn, K-Means, Logistic Regression
-* **Implementation:** End-to-end customer intelligence pipeline integrating RFM feature engineering, unsupervised clustering, and supervised classification[cite: 1, 2].
-* **Logic:** Applied `sklearn.pipeline.Pipeline` with `StandardScaler` to prevent data leakage, optimizing classification for 72% Recall to prioritize high-value "Whale" retention over accuracy[cite: 1, 2].
-* **Key Function:** Automated transformation of raw transaction logs into actionable behavioral cohorts and predictive churn/spend metrics[cite: 1, 2].
+* **Implementation:** End-to-end customer intelligence pipeline integrating RFM feature engineering, unsupervised clustering, and supervised classification.
+* **Logic:** Applied `sklearn.pipeline.Pipeline` with `StandardScaler` to prevent data leakage, optimizing classification for 72% Recall to prioritize high-value "Whale" retention over accuracy.
+* **Key Function:** Automated transformation of raw transaction logs into actionable behavioral cohorts and predictive churn/spend metrics.
 
 ### 2. [GA4 Forensic Traffic Analysis](https://github.com/anthonyinzinna/GA4-Forensic-Traffic-Analysis)
 * **Stack:** SQL (BigQuery), Looker Studio, Regex
